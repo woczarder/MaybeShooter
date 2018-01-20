@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MaybeShoote:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="729fa750-2e92-4c12-a449-b9771731b35d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GameState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/states/GameState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/utils/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/creatures/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1121">
+              <caret line="62" column="27" lean-forward="false" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Active.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/Active.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>prey</find>
+      <find>predator</find>
+      <find>2</find>
+      <find>10</find>
+      <find>15</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>predator</replace>
+      <replace>hunted</replace>
+      <replace>target</replace>
+      <replace>3</replace>
+      <replace>label_xPos</replace>
+      <replace>label_yPos</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/fellazombies/states/game/entities/creatures/goodGuys/Civilian.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/fellazombies/states/game/entities/creatures/goodGuys/Hunter.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/fellazombies/states/game/entities/creatures/Zombie.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/fellazombies/input/KeyManager.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/fellazombies/states/game/GameLauncher.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/fellazombies/states/GameState.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/fellazombies/states/MenuState.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/fellazombies/Game.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/template/states/game/entities/creatures/goodGuys/Hunter.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/template/input/MouseManager.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/template/Handler.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/template/states/State.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/template/states/MenuState.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/template/states/GameState.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/template/Game.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/non_solids/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/creatures/Ship.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/creatures/Enemy.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/passive/Passive.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/Entity.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/creatures/Enemy.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/Stats.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/SimpleBullet.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/PentaBullet.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/TripleBullet.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/HardBullet.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/OctaBullet.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/ui/UIManager.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/ui/ClickListener.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/states/State.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/input/MouseManager.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/ui/UIButton.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/creatures/Enemies.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/ui/UIObject.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/resources/Prices.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/resources/Price.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/ui/UILabelButton.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/ui/UIUpgradeButton.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/resources/BulletData.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/creatures/Creature.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/Active.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/resources/Stats.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/Game.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/states/MenuState.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/states/UpgradeState.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/EntityManager.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/creatures/Player.java" />
+        <option value="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/states/GameState.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="width" value="1080" />
+    <option name="height" value="1920" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MaybeShooter-indev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaybeShooter-indev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MaybeShooter-indev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaybeShooter-indev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MaybeShooter-indev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaybeShooter-indev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maybeshooter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MaybeShooter-indev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaybeShooter-indev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maybeshooter" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MaybeShooter-indev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaybeShooter-indev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maybeshooter" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+              <item name="active" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MaybeShooter-indev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaybeShooter-indev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maybeshooter" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+              <item name="active" type="462c0819:PsiDirectoryNode" />
+              <item name="creatures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MaybeShooter-indev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaybeShooter-indev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maybeshooter" type="462c0819:PsiDirectoryNode" />
+              <item name="states" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MaybeShooter-indev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaybeShooter-indev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maybeshooter" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GeneticAlg" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dev.hdstudio.maybeshooter.entities" />
+      <recent name="dev.hdstudio.maybeshooter.entities.creatures" />
+      <recent name="dev.hdstudio.fellazombies.input" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/ui" />
+      <recent name="C:\Users\woc\Dropbox\Projects\Java\HDStudio\template\src\dev\hdstudio\template\input" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Launcher">
+    <configuration name="Launcher" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="dev.hdstudio.maybeshooter.Launcher" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="maybeshooter" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SmykInvaders" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="729fa750-2e92-4c12-a449-b9771731b35d" name="Default" comment="" />
+      <created>1504708364082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504708364082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="0" width="1080" height="1920" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16262482" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25462964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399361" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32800853" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995749" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837406" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21618743" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12864584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="23" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/fellazombies/states/game/Creatures/bad/Zombie.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/template/states/game/entities/EntityManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/fellazombies/states/game/Creatures/good/Hunter.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/Launcher.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/template/states/game/entities/creatures/GoodGuy.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/fellazombies/input/MouseManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/template/states/game/entities/creatures/goodGuys/Civilian.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/template/states/game/entities/creatures/Zombie.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/template/states/game/entities/Entity.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/input/KeyManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/template/states/game/entities/EntityManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/template/states/game/GameLauncher.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/template/states/game/entities/creatures/goodGuys/Hunter.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/display/Display.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/Handler.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/creatures/Enemy.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/creatures/Ship.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/non_solids/Bullet.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/creatures/Ship.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/PlayerBullet.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/passive/Passive.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/Stats.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/input/MouseManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/ui/UIManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/states/State.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/ui/UIButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/ui/UIObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/resources/Price.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/resources/CreatureData.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/ui/UIUpgradeButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/ui/ClickListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/resources/BulletData.java" />
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/Game.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/states/MenuState.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/resources/Stats.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/states/UpgradeState.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/HardBullet.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/PentaBullet.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/TripleBullet.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/SimpleBullet.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/OctaBullet.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/bullets/Bullet.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/creatures/Enemy.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/EntityManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/Entity.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/creatures/Creature.java" />
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/states/GameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/creatures/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="62" column="27" lean-forward="false" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/hdstudio/maybeshooter/entities/active/Active.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>MaybeShoote:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>maybeshooter</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sqlite-jdbc-3.20.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
